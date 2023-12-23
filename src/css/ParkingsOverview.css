@@ -1,0 +1,126 @@
+.leaflet-container {
+  max-width: 80%;
+  height: 85vh;
+}
+.map {
+  width: 100vh;
+  margin-right: 315px;
+}
+.mapContainer {
+  margin-top: 5%;
+}
+/* .detail {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 20pc;
+  white-space: nowrap;
+}
+.text {
+  margin-left: 20pc;
+} */
+
+/* @media screen and (max-width: 411px) {
+  .leaflet-container {
+    max-width: 60%;
+    height: 82vh;
+  }
+  .map {
+    width: 50vh;
+  }
+  .mapContainer {
+    margin-top: 5%;
+  }
+  .detail {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    margin-right: -2pc;
+    background-color: rgb(241, 241, 241);
+  }
+  .text {
+    margin-left: -12px;
+  }
+  .mapContainer {
+    margin-top: 40%;
+  }
+
+  .leaflet-container {
+    margin-right: 5%;
+    height: 70vh;
+  }
+} */
+/* @media screen and (max-width: 990px) {
+  .leaflet-container {
+    max-width: 60%;
+    height: 82vh;
+  }
+  .map {
+    width: 50vh;
+    margin-right: -20%;
+  }
+  .mapContainer {
+    margin-top: 5%;
+  }
+  .detail {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    margin-right: 10%;
+  }
+  .text {
+    margin-right: 20%;
+    margin-top: 10%;
+  }
+  .mapContainer {
+    margin-top: 40%;
+  }
+
+  .leaflet-container {
+    margin-right: 5%;
+    height: 70vh;
+  }
+} */
+/* @media screen and (max-width: 1024px) {
+  .leaflet-container {
+    max-width: 90%;
+    height: 82vh;
+  }
+  .map {
+    width: 50vh;
+    margin-right: 20%;
+  }
+  .mapContainer {
+    margin-top: 5%;
+  }
+  .detail {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    margin-right: 20%;
+  }
+  .text {
+    margin-right: 30%;
+    margin-top: 10%;
+  }
+  .mapContainer {
+    margin-top: 40%;
+  }
+
+  .leaflet-container {
+    margin-right: 5%;
+    height: 70vh;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .mapContainer {
+    margin-top: 5%;
+  }
+  .leaflet-container {
+    height: 70vh;
+    max-width: 100%;
+  }
+  .detail {
+    margin-right: 25%;
+  }
+  .text {
+    margin-right: 30%;
+  }
+} */

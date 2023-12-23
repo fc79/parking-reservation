@@ -1,0 +1,156 @@
+.ltr {
+  direction: ltr !important;
+}
+
+.hidden {
+  display: none;
+  border: none;
+}
+@font-face {
+  font-family: "IRANSansWeb(FaNum)";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/IRANSansWeb(FaNum).eot");
+  src: local("IRANSansWeb(FaNum)");
+  src: 
+    /* IE6-8 */ url("../fonts/IRANSansWeb(FaNum).woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("../fonts/IRANSansWeb(FaNum).ttf")
+      format("truetype");
+}
+.font {
+  font-family: "IRANSansWeb(FaNum)";
+}
+
+.flex {
+  display: flex;
+  border-width: 1rem;
+}
+
+.none {
+  border: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.flex-1 {
+  display: flex;
+  flex: 1;
+}
+
+.flex-container {
+  flex-wrap: wrap;
+}
+
+.fd-col {
+  flex-direction: column;
+}
+.fd-col-rev {
+  flex-direction: column-reverse;
+}
+.fd-row {
+  flex-direction: row;
+}
+.fd-row-rev {
+  flex-direction: row-reverse;
+}
+.jc-start {
+  justify-content: flex-start;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-stretch {
+  justify-content: stretch;
+}
+
+.jc-saround {
+  justify-content: space-around;
+}
+
+.jc-sbet {
+  justify-content: space-between;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ai-start {
+  align-items: flex-start;
+}
+
+.ai-end {
+  align-items: flex-end;
+}
+
+.border-none {
+  border: none !important;
+}
+
+.text-align {
+  text-align: right;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.txt-xsm {
+  font-size: x-small;
+}
+.txt-xxsm {
+  font-size: xx-small;
+}
+.txt-sml {
+  font-size: smaller;
+}
+
+.txt-sm {
+  font-size: small;
+}
+.txt-md {
+  font-size: 12pt;
+}
+.txt-lg {
+  font-size: large;
+}
+.txt-xlg {
+  font-size: x-large;
+}
+.txt-xxlg {
+  font-size: 25pt;
+}
+.txt-big {
+  font-size: 30pt;
+}
+
+.cur-point {
+  cursor: pointer;
+}
+
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.topContainer{
+  display: flex;
+  flex-direction: row;
+}

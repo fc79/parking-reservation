@@ -1,0 +1,60 @@
+/** colors **/
+
+body {
+  background-color: #f1f1f1;
+}
+
+.back-dark {
+  /*dark background*/
+  background-color: #f1f1f1;
+}
+
+.back-light {
+  /*light background*/
+  background-color: #fff;
+}
+
+.shadow {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.shadow-off {
+  box-shadow: rgba(60, 64, 67, 0) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0) 0px 2px 6px 2px;
+}
+.shadow-purple {
+  box-shadow: 0px 0px 1px 2px #51269293;
+}
+.shadow-purple:hover {
+  box-shadow: 0px 0px 3px 3px #51269293;
+}
+
+/* border */
+
+.dark-border {
+  border: 2px solid #f1f1f1;
+}
+
+.border-left-4 {
+  border-left: 3px solid #512692;
+}
+.focus-border {
+  border: 2px solid #512692;
+}
+
+.dark-border-bottom {
+  border-bottom: 2px solid #f1f1f1;
+}
+
+/*box color in moon of left item*/
+
+.border {
+  border: 2px solid #512692 !important;
+}
+.border-dashed {
+  border: 3px dashed #512692;
+}
+.border-dotted-gray {
+  border: 2px dotted #cccccc;
+}
